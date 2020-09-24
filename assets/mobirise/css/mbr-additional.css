@@ -1163,6 +1163,22 @@ a {
 .cid-saSvRhN91B .mbr-description {
   color: #232323;
 }
+.cid-sbvZNQuo58 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sbvZNQuo58 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sbvZNQuo58 .row {
+  flex-direction: row-reverse;
+}
+.cid-sbvZNQuo58 img {
+  width: 100%;
+}
 .cid-sbqYr1sqiP {
   padding-top: 3rem;
   padding-bottom: 2rem;
